@@ -32,7 +32,7 @@
   }
 }
 .dark-mode-page {
-  background-image: url(backgroundDark.jpg);
+  background-image: url('/backgroundDark.jpg');
 
   .container__imgLogo {
     filter: invert(1);
